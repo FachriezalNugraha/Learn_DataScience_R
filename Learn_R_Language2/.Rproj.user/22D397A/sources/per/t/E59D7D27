@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585656352623.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2110141227",
+    "id" : "E59D7D27",
+    "lastKnownWriteTime" : 1585658143,
+    "last_content_update" : 1585658143314,
+    "path" : "~/Learn_R_Laguage2/test3/DataStructure_FrameIntroduction.R",
+    "project_path" : "DataStructure_FrameIntroduction.R",
+    "properties" : {
+        "cursorPosition" : "11,23",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
