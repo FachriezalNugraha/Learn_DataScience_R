@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585648294185.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5B0A9731",
+    "lastKnownWriteTime" : 1585649186,
+    "last_content_update" : 1585649186164,
+    "path" : "~/Test2/latihan.R",
+    "project_path" : "latihan.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
