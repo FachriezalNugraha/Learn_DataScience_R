@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585665280501.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D4540B35",
+    "lastKnownWriteTime" : 7599662079110377506,
+    "last_content_update" : 1585665280501,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "322EC3B8",
+        "caption" : "sales_per_segment",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=sales_per_segment&cache_key=322EC3B8",
+        "displayedObservations" : 3,
+        "environment" : "",
+        "expression" : "sales_per_segment",
+        "object" : "sales_per_segment",
+        "preview" : 0,
+        "totalObservations" : 3,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585664425887.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F9DEA11C",
+    "lastKnownWriteTime" : 30962724186685549,
+    "last_content_update" : 1585664425887,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "FD0D1E08",
+        "caption" : "dataset_baru",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dataset_baru&cache_key=FD0D1E08",
+        "displayedObservations" : "9988",
+        "environment" : "",
+        "expression" : "dataset_baru",
+        "object" : "dataset_baru",
+        "preview" : "0",
+        "totalObservations" : "9988",
+        "variables" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

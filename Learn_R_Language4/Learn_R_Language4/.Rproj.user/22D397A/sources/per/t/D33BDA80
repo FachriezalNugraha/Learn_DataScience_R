@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585666240151.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D33BDA80",
+    "lastKnownWriteTime" : 8314045280926310432,
+    "last_content_update" : 1585666240151,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9D2E822E",
+        "caption" : "monthly_sales",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=monthly_sales&cache_key=9D2E822E",
+        "displayedObservations" : "48",
+        "environment" : "",
+        "expression" : "monthly_sales",
+        "object" : "monthly_sales",
+        "preview" : "0",
+        "totalObservations" : "48",
+        "variables" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

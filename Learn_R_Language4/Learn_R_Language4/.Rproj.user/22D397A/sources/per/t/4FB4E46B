@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585664200368.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4112548986",
+    "id" : "4FB4E46B",
+    "lastKnownWriteTime" : 1585667385,
+    "last_content_update" : 1585667385465,
+    "path" : "~/Learn_R_Language4/Learn_R_Language4/Learn_R_Language41.R",
+    "project_path" : "Learn_R_Language41.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "5",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
